@@ -133,10 +133,9 @@ Pivot tables and charts built from the exported clean dataset (1,470 rows):
 
 (The attrition rate is the average of a 1/0 attrition flag.)
 
-![Attrition by Department](screenshots/attrition_by_department.png)
-![Attrition by Overtime](screenshots/attrition_by_overtime.png)
-![Attrition by Age Group](screenshots/attrition_by_age_group.png)
-
+![Attrition by Department](SCREENSHOTS/attrition_by_department%20HR.png)
+![Attrition by Overtime](SCREENSHOTS/attrition_by_overtime%20HR.png)
+![Attrition by Age Group](SCREENSHOTS/attrition_by_age_group%20HR.png)
 ---
 
 ## 11. Power BI Dashboard
@@ -159,7 +158,7 @@ The one-page dashboard has:
 6. **Employees Left by Job Role** and **Employees Left by Years at Company** (counts)
 7. **Department slicer** that filters every card and chart
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](SCREENSHOTS/dashboard.png)
 
 ---
 
